@@ -20,7 +20,8 @@
 | 파일 | 하는 일 |
 | --- | --- |
 | `SPEC.md` | 명세 틀. 에이전트가 초안을 쓰고 **본인이 고칩니다** |
-| `src/` · `tests/` · `experiments/` | 비어 있습니다. 수업에서 채웁니다 |
+| `src/base62.py` | 음이 아닌 정수의 base62 인코딩·디코딩 |
+| `src/` · `tests/` · `experiments/` | 과제 진행에 따라 채웁니다 |
 | `tools/catchup.sh` | 수업 중 놓친 단계를 따라잡는 스크립트 |
 | `Makefile` | `make test` · `make serve` · `make experiment` |
 
